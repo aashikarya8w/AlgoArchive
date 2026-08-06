@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/aashikarya8w/AlgoArchive/tree/master/0050-powx-n) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/aashikarya8w/AlgoArchive/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Recursion
 |  |
 | ------- |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/aashikarya8w/AlgoArchive/tree/master/3310-remove-methods-from-project) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/aashikarya8w/AlgoArchive/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->

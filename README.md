@@ -42,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aashikarya8w/AlgoArchive/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Array
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aashikarya8w/AlgoArchive/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aashikarya8w/AlgoArchive/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->

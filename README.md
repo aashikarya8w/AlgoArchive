@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/aashikarya8w/AlgoArchive/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/aashikarya8w/AlgoArchive/tree/master/0050-powx-n) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aashikarya8w/AlgoArchive/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Recursion

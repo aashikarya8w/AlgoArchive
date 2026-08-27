@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/aashikarya8w/AlgoArchive/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/aashikarya8w/AlgoArchive/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/aashikarya8w/AlgoArchive/tree/master/0189-rotate-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aashikarya8w/AlgoArchive/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Recursion
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aashikarya8w/AlgoArchive/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/aashikarya8w/AlgoArchive/tree/master/0189-rotate-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aashikarya8w/AlgoArchive/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String
 |  |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aashikarya8w/AlgoArchive/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/aashikarya8w/AlgoArchive/tree/master/0189-rotate-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aashikarya8w/AlgoArchive/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Bit Manipulation
 |  |

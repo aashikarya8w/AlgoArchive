@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aashikarya8w/AlgoArchive/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/aashikarya8w/AlgoArchive/tree/master/0189-rotate-array) |
 | [1480-running-sum-of-1d-array](https://github.com/aashikarya8w/AlgoArchive/tree/master/1480-running-sum-of-1d-array) |
+| [1695-maximum-erasure-value](https://github.com/aashikarya8w/AlgoArchive/tree/master/1695-maximum-erasure-value) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aashikarya8w/AlgoArchive/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Bit Manipulation
 |  |
@@ -101,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/aashikarya8w/AlgoArchive/tree/master/0021-merge-two-sorted-lists) |
+## Hash Table
+|  |
+| ------- |
+| [1695-maximum-erasure-value](https://github.com/aashikarya8w/AlgoArchive/tree/master/1695-maximum-erasure-value) |
+## Sliding Window
+|  |
+| ------- |
+| [1695-maximum-erasure-value](https://github.com/aashikarya8w/AlgoArchive/tree/master/1695-maximum-erasure-value) |
 <!---LeetCode Topics End-->

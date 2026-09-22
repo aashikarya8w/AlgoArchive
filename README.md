@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/aashikarya8w/AlgoArchive/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aashikarya8w/AlgoArchive/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/aashikarya8w/AlgoArchive/tree/master/0189-rotate-array) |
+| [0682-baseball-game](https://github.com/aashikarya8w/AlgoArchive/tree/master/0682-baseball-game) |
 | [1480-running-sum-of-1d-array](https://github.com/aashikarya8w/AlgoArchive/tree/master/1480-running-sum-of-1d-array) |
 | [1695-maximum-erasure-value](https://github.com/aashikarya8w/AlgoArchive/tree/master/1695-maximum-erasure-value) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aashikarya8w/AlgoArchive/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/aashikarya8w/AlgoArchive/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/aashikarya8w/AlgoArchive/tree/master/0155-min-stack) |
+| [0682-baseball-game](https://github.com/aashikarya8w/AlgoArchive/tree/master/0682-baseball-game) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/aashikarya8w/AlgoArchive/tree/master/0155-min-stack) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/aashikarya8w/AlgoArchive/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->

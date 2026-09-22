@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aashikarya8w/AlgoArchive/tree/master/0020-valid-parentheses) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aashikarya8w/AlgoArchive/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
@@ -110,4 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1695-maximum-erasure-value](https://github.com/aashikarya8w/AlgoArchive/tree/master/1695-maximum-erasure-value) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/aashikarya8w/AlgoArchive/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/aashikarya8w/AlgoArchive/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

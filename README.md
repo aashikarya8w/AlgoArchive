@@ -19,10 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aashikarya8w/AlgoArchive/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/aashikarya8w/AlgoArchive/tree/master/0098-validate-binary-search-tree) |
+| [0623-add-one-row-to-tree](https://github.com/aashikarya8w/AlgoArchive/tree/master/0623-add-one-row-to-tree) |
 | [3310-remove-methods-from-project](https://github.com/aashikarya8w/AlgoArchive/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0623-add-one-row-to-tree](https://github.com/aashikarya8w/AlgoArchive/tree/master/0623-add-one-row-to-tree) |
 | [3310-remove-methods-from-project](https://github.com/aashikarya8w/AlgoArchive/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aashikarya8w/AlgoArchive/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/aashikarya8w/AlgoArchive/tree/master/0098-validate-binary-search-tree) |
+| [0623-add-one-row-to-tree](https://github.com/aashikarya8w/AlgoArchive/tree/master/0623-add-one-row-to-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aashikarya8w/AlgoArchive/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -149,5 +152,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aashikarya8w/AlgoArchive/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/aashikarya8w/AlgoArchive/tree/master/0098-validate-binary-search-tree) |
+| [0623-add-one-row-to-tree](https://github.com/aashikarya8w/AlgoArchive/tree/master/0623-add-one-row-to-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aashikarya8w/AlgoArchive/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->

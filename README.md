@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/aashikarya8w/AlgoArchive/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/aashikarya8w/AlgoArchive/tree/master/0098-validate-binary-search-tree) |
 | [3310-remove-methods-from-project](https://github.com/aashikarya8w/AlgoArchive/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aashikarya8w/AlgoArchive/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/aashikarya8w/AlgoArchive/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/aashikarya8w/AlgoArchive/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/aashikarya8w/AlgoArchive/tree/master/0682-baseball-game) |
 ## Bracket Sequences
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/aashikarya8w/AlgoArchive/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/aashikarya8w/AlgoArchive/tree/master/0098-validate-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -142,5 +145,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/aashikarya8w/AlgoArchive/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/aashikarya8w/AlgoArchive/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->

@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/aashikarya8w/AlgoArchive/tree/master/0098-validate-binary-search-tree) |
 | [3310-remove-methods-from-project](https://github.com/aashikarya8w/AlgoArchive/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -130,4 +131,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/aashikarya8w/AlgoArchive/tree/master/0682-baseball-game) |
+## Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/aashikarya8w/AlgoArchive/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/aashikarya8w/AlgoArchive/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/aashikarya8w/AlgoArchive/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->

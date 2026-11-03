@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/aashikarya8w/AlgoArchive/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/aashikarya8w/AlgoArchive/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/aashikarya8w/AlgoArchive/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/aashikarya8w/AlgoArchive/tree/master/0189-rotate-array) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/aashikarya8w/AlgoArchive/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aashikarya8w/AlgoArchive/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aashikarya8w/AlgoArchive/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/aashikarya8w/AlgoArchive/tree/master/0070-climbing-stairs) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aashikarya8w/AlgoArchive/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/aashikarya8w/AlgoArchive/tree/master/0098-validate-binary-search-tree) |
 | [0623-add-one-row-to-tree](https://github.com/aashikarya8w/AlgoArchive/tree/master/0623-add-one-row-to-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aashikarya8w/AlgoArchive/tree/master/0701-insert-into-a-binary-search-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/aashikarya8w/AlgoArchive/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
